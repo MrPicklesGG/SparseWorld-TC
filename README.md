@@ -12,7 +12,7 @@
     <a >Wenbo Hou</a><sup>2</sup>
     &nbsp;·&nbsp;
     <a >Zhihui Hao</a><sup>2</sup>
-    &nbsp;·&nbsp;
+    &nbsp;·&nbsp; <br>
     <a >Kun Zhan</a><sup>2</sup>
     &nbsp;·&nbsp;
     <a >Qijun Chen#</a><sup>1</sup>
