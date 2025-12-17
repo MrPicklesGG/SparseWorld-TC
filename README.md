@@ -41,3 +41,7 @@ This paper introduces a novel architecture for trajectory-conditioned forecastin
   year={2025}
 }
 ```
+
+## Acknowledgements
+
+The project is partially based on some awesome repos: [OPUS](https://github.com/jbwang1997/OPUS), [VGGT](https://github.com/facebookresearch/vggt), and [DrivingForward](https://github.com/fangzhou2000/DrivingForward). Many thanks to these projects for their excellent contributions!
