@@ -25,7 +25,7 @@
     (* Equal contribition, # Corresponding author)
   </p>
   <!-- <h3 align="center"> 2026</h3> -->
-  <h3 align="center"><a href="https://arxiv.org/abs/2511.22039">Paper</a> | <a href="https://drive.google.com/">Pretrained Models</a> </h3>
+  <h3 align="center"><a href="https://arxiv.org/abs/2511.22039">Paper</a> | <a href="https://huggingface.co/MrPicklesGG/SparseWorld-TC/tree/main">Pretrained Models</a> </h3>
 </p>
 
 ## Introduction
