@@ -39,6 +39,12 @@ cd models/csrc
 python setup.py build_ext --inplace
 ```
 
+## Evaluation:
+
+```
+python3 val.py --config configs/sw-tc.py --weights [path_to_the_weight]
+```
+
 ## BibTeX
 ```
 @article{du2025sparseworld,
